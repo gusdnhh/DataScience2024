@@ -22,7 +22,7 @@
  먼저, 현재까지 파일의 remote repo에서 수정내용이 있는지 확인
  수정된 내용이 있으면 업데이트
  git pull 먼저 하고, 내용을 수정하고 push를 한다.
- git pull<<<<<<< HEAD
+<<<<<<< HEAD
  git pull
 =======
  git pull
